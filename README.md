@@ -1,5 +1,5 @@
 # Facial-Emotion-Recognition
-Metis Project #3 - Image classification with neural networks
+Metis Project #3 - Image classification with neural networks 
 
 Dataset is over 30,000 grayscale 48x48 pixel images of faces. There are seven different labels for emotions (0=Angry, 1=Disgust, 2=Fear, 3=Happy, 4=Sad, 5=Surprise, 6=Neutral). Data source is the Facial Expression Recognition challenge on Kaggle [(link)](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data)
  
