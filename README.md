@@ -8,4 +8,4 @@ We used OpenCV and convolutional neural networks to classify images of faces bas
 
 Neural Network code is based on the official Tensorflow tutorial code for [CIFAR-10](https://github.com/tensorflow/tensorflow/tree/r0.11/tensorflow/models/image/cifar10/). It has been adjusted to work on the FER2013 dataset and to make better use of GPU. Also fixed some errors caused by the Tensorflow version update to v11.0, so this code should run on v11.0 but may not be future-proof. Instructions can be found in the Neural Network [folder](Neural Network). 
 
-
+A blog post about this project can be found [here.](https://kevinkdu.wordpress.com/2016/11/23/metis-project-3/)
